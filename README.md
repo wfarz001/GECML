@@ -1,4 +1,5 @@
 # GECML
+# This is a course project where the goal was to develop data pre-processing pipeline and machine learning model to identify tumor using genomic expression and clinical data.
 Genomic Expression and Clinical data unsupervised clustering to build machine learning model for survival analysis.
 The Cancer Genome Atlas(TCGA) research networks avails large collection of clinical and molecular phenotypes of 10,000 tumor patients with 33 different tumor type.
 
